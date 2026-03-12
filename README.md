@@ -1,11 +1,11 @@
-# Hi, I'm Abdul Ahad 👋
+# Hi, I'm **Abdul Ahad** 👋
 Welcome to my GitHub profile! Showcasing my programming projects, learning journey, and coding skills.
 
-🎓 Computer Science Student | NED University
+🎓 _**Computer Science Student** | **UBIT** | **University Of Karachi**_
 
 💻 Passionate about programming, algorithms, and problem-solving
 
-🌐 Currently learning:  
+🌐 Currently learning: 
 - Java & Data Structures  
 - Algorithm design and problem solving   
 
