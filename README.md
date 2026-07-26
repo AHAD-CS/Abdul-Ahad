@@ -1,16 +1,35 @@
-# Hi, I'm **Abdul Ahad** 👋
-Welcome to my GitHub profile! Showcasing my programming projects, learning journey, and coding skills.
 
-🎓 _**Computer Science Student** | **UBIT** | **University Of Karachi**_
+# 👋 Hi, I'm Abdul Ahad
 
-💻 Passionate about programming, algorithms, and problem-solving
+🎓 **BS Computer Science Student** at the **University of Karachi (UBIT)**.
 
-🌐 Currently learning: 
-- Java & Data Structures  
-- Algorithm design and problem solving   
+    Welcome to my GitHub profile! Showcasing my programming projects, learning journey, and coding skills.
 
-📂 My projects include:  
-- Matrix & algorithm programs in Java  
-- Small beginner programs  
+💻 I am passionate about **Software Development**, **Object-Oriented Programming**, and continuously improving my programming skills through practical projects.
 
-🔭 I’m building my coding skills to become a professional software developer  
+## 🚀 Currently Learning
+- ☕ Java
+- 📚 Object-Oriented Programming (OOP)
+- 🌐 Git & GitHub
+- 💻 Data Structures & Algorithms
+
+## 💡 Interests
+- Software Development
+- Java Programming
+- Problem Solving
+- Open Source
+- Learning New Technologies
+
+## 🛠️ Languages & Tools
+- Java
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📫 Connect with Me
+
+- GitHub: **https://github.com/AHAD-CS**
+
+---
+
+⭐ *"Every expert was once a beginner. Keep learning, keep building."*
